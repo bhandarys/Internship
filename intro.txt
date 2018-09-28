@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name is Deepika
 I am from Haveri
+=======
+My name is Tanu and I am from Dasangadde
+>>>>>>> a4729fd011736ce139c2149c5497d8d22b1be715
